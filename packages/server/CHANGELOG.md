@@ -1,5 +1,11 @@
 # @apollo/server
 
+## 4.3.1
+
+### Patch Changes
+
+- [#7274](https://github.com/apollographql/apollo-server/pull/7274) [`3b0ec8529`](https://github.com/apollographql/apollo-server/commit/3b0ec852994f86dd84bdccf77829fb81f8455579) Thanks [@patrick91](https://github.com/patrick91)! - Update schemaIsSubgraph to also support non nullable \_Service.sdl
+
 ## 4.3.0
 
 ### Minor Changes
